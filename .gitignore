@@ -1,5 +1,4 @@
 uploads/*
-!uploads
 build
 thunder-tests
 
